@@ -11,8 +11,8 @@
 ## 👋 SUNWOO 👋 
   
 
-  <a href="[https://doteloper.tistory.com](https://blog.naver.com/sunwoo030616)"><img src="https://img.shields.io/badge/-Blog-03C75A?style=flat-square&logo=Naver&logoColor=white&"/>
-<a href="https://www.instagram.com/sunraiin/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+  <a href="https://www.blog.naver.com/sunwoo030616"><img src="https://img.shields.io/badge/-Blog-03C75A?style=flat-square&logo=Naver&logoColor=white&"/>
+<a href="https://www.instagram.com/sunnraiin/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 
   
@@ -54,3 +54,5 @@
   <br>
  
 </div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC0CB,50:ADD8E6,100:DDA0DD&height=167&section=footer" />
+
