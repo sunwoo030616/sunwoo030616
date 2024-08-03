@@ -11,7 +11,7 @@
 ## 👋 SUNWOO 👋 
   
 
-  <a href="https://www.blog.naver.com/sunwoo030616"><img src="https://img.shields.io/badge/-Blog-03C75A?style=flat-square&logo=Naver&logoColor=white&"/>
+  <a href="https://blog.naver.com/sunwoo030616"><img src="https://img.shields.io/badge/-Blog-03C75A?style=flat-square&logo=Naver&logoColor=white&"/>
 <a href="https://www.instagram.com/sunnraiin/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 
