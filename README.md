@@ -15,9 +15,9 @@
 <a href="https://www.instagram.com/sunnraiin/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://velog.io/@sunwoo030616" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 
-  🎓 동국대학교 컴퓨터공학과 23학번
+  ### 🎓 동국대학교 컴퓨터공학과 23학번
 
-  🦁 멋쟁이사자처럼 12기  
+  ### 🦁 멋쟁이사자처럼 12기  
  
 
   <br>
