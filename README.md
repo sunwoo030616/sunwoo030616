@@ -14,23 +14,6 @@ Back-end Developer who builds services people actually use in the field. <br/>
 
 <br>
 
-## 🏆 2026 KB AI Challenge 대상
-
-### 풀스택 선우 · 깨비뚝딱
-
-**제8회 Future Finance AI Challenge 대상(금융감독원상)**<br>
-전국 약 300개 참가팀 가운데 본선 10팀에 진출해 대상을 수상했습니다.
-
-<img src="./assets/kb-ai-challenge-fullstack-sunwoo.png" width="820" alt="풀스택 선우 팀 소개 - 장선우, 최선우, 박선우"/>
-
-사용자의 자연어 금융 요청을 이해해 필요한 금융 위젯을 실시간으로 조합하는 **Generative UI 서비스**입니다.
-
-[Live Demo](https://kkbb-ddookddak.netlify.app) · [Frontend](https://github.com/sunwoo030616/kkbb-ddook-ddak-front) · [Backend](https://github.com/sunwoo030616/KKBB-ddook-ddak-back) · [Figma](https://www.figma.com/design/hW2FEx2HREkWZSIQR4qJqf/2026-KB-AI-Challenge)
-
-수상 기사: [한국경제](https://www.hankyung.com/article/202609032008P) · [더퍼스트미디어](https://www.thefirstmedia.net/news/articleView.html?idxno=207727) · [스마트투데이](https://www.smarttoday.co.kr/ko-kr/articles/111151)
-
-<br>
-
 ## 🛠 SKILL 🛠
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
@@ -59,9 +42,17 @@ Back-end Developer who builds services people actually use in the field. <br/>
 
 ## 🚩 Projects
 
+<p align="center">
+  <a href="https://kkbb-ddookddak.netlify.app">
+    <img src="./assets/kb-ai-challenge-fullstack-sunwoo.png" width="760" alt="풀스택 선우 팀 소개 - 장선우, 최선우, 박선우"/>
+  </a><br>
+  <strong>🏆 깨비뚝딱 · 제8회 Future Finance AI Challenge 대상(금융감독원상)</strong><br>
+  <sub>전국 약 300개 참가팀 중 본선 10팀 진출 · 자연어 기반 Generative UI 금융 서비스</sub>
+</p>
+
 |                        Title                        |     Stack     |      Duration      |            Organization            |            Highlights            |                                                                    More                                                                    |
 | :--------------------------------------------------: | :------------: | :-----------------: | :----------------------------------: | :----------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------: |
-| **깨비뚝딱 — 생성형 금융 UI 서비스** | React / Spring Boot / OpenAI | 2026.07 ~ 2026.09 | KB국민은행 | 🏆 제8회 Future Finance AI Challenge 대상 | [Frontend](https://github.com/sunwoo030616/kkbb-ddook-ddak-front) · [Backend](https://github.com/sunwoo030616/KKBB-ddook-ddak-back) · [Demo](https://kkbb-ddookddak.netlify.app) |
+| 🏆 **깨비뚝딱 — 생성형 금융 UI 서비스** | React / Spring Boot / OpenAI | 2026.07 ~ 2026.09 | KB국민은행 | **제8회 Future Finance AI Challenge 대상** | [Demo](https://kkbb-ddookddak.netlify.app) · [Frontend](https://github.com/sunwoo030616/kkbb-ddook-ddak-front) · [Backend](https://github.com/sunwoo030616/KKBB-ddook-ddak-back) · [수상 기사](https://www.hankyung.com/article/202609032008P) |
 |     대학 축제 주점 통합 운영 플랫폼, **D-Order v3**     | Django / Redis / PostgreSQL |  2026.05 ~ 진행중  | <img src="https://img.shields.io/badge/-D--Order-pink"/> | 23 Booths · 13만+ PV · GA4 | [Github](https://github.com/sunwoo030616/2026-d-order-be-v3) · [Site](https://2602-d-order-home-page.vercel.app) |
 |     대학 축제 주점 통합 운영 플랫폼, **D-Order v2**     | Django / DRF |  2025.07 ~ 2025.09  | <img src="https://img.shields.io/badge/-D--Order-pink"/> | 9 Booths | [Github](https://github.com/sunwoo030616/2025-d-order-backend-v2) |
 |     대학 축제 주점 통합 운영 플랫폼, **D-Order v1**     | Django / DRF |  2025.04 ~ 2025.06  | <img src="https://img.shields.io/badge/-D--Order-pink"/> | 8 Booths · 1,200+ Users | [Github](https://github.com/sunwoo030616/2025-d-order-backend) |
@@ -74,7 +65,7 @@ Back-end Developer who builds services people actually use in the field. <br/>
 
 |                    Title                    |    Role    |   Result   |     Date     |
 | :-------------------------------------------: | :---------: | :---------: | :------------: |
-| 제8회 Future Finance AI Challenge · 풀스택 선우 | 기획 · Back-End | 🏆 대상(금융감독원상) | 2026.09 |
+| [제8회 Future Finance AI Challenge · 풀스택 선우](https://www.hankyung.com/article/202609032008P) | 기획 · Back-End | **🏆 대상(금융감독원상)** | 2026.09 |
 |        멋쟁이사자처럼 중앙 해커톤 '삶은기차'        | Back-End |    참가    |   2024.07   |
 |        동국대 멋쟁이사자처럼 심바톤        | Back-End |  🥈 2등  |   2024.06   |
 |        멋쟁이사자처럼 4호선톤        | Back-End |  🏅 우수상  |   2024.11   |
