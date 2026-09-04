@@ -42,17 +42,9 @@ Back-end Developer who builds services people actually use in the field. <br/>
 
 ## 🚩 Projects
 
-<p align="center">
-  <a href="https://kkbb-ddookddak.netlify.app">
-    <img src="./assets/kb-ai-challenge-fullstack-sunwoo.png" width="760" alt="풀스택 선우 팀 소개 - 장선우, 최선우, 박선우"/>
-  </a><br>
-  <strong>🏆 깨비뚝딱 · 제8회 Future Finance AI Challenge 대상(금융감독원상)</strong><br>
-  <sub>전국 약 300개 참가팀 중 본선 10팀 진출 · 자연어 기반 Generative UI 금융 서비스</sub>
-</p>
-
 |                        Title                        |     Stack     |      Duration      |            Organization            |            Highlights            |                                                                    More                                                                    |
 | :--------------------------------------------------: | :------------: | :-----------------: | :----------------------------------: | :----------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------: |
-| 🏆 **깨비뚝딱 — 생성형 금융 UI 서비스** | React / Spring Boot / OpenAI | 2026.07 ~ 2026.09 | KB국민은행 | **제8회 Future Finance AI Challenge 대상** | [Demo](https://kkbb-ddookddak.netlify.app) · [Frontend](https://github.com/sunwoo030616/kkbb-ddook-ddak-front) · [Backend](https://github.com/sunwoo030616/KKBB-ddook-ddak-back) · [수상 기사](https://www.hankyung.com/article/202609032008P) |
+| 🏆 **깨비뚝딱 — 생성형 금융 UI 서비스** | React / Spring Boot / OpenAI | 2026.07 ~ 2026.09 | KB국민은행 | **제8회 Future Finance AI Challenge 대상** |  · [Frontend](https://github.com/sunwoo030616/kkbb-ddook-ddak-front) · [Backend](https://github.com/sunwoo030616/KKBB-ddook-ddak-back) · [수상 기사](https://www.hankyung.com/article/202609032008P) |
 |     대학 축제 주점 통합 운영 플랫폼, **D-Order v3**     | Django / Redis / PostgreSQL |  2026.05 ~ 진행중  | <img src="https://img.shields.io/badge/-D--Order-pink"/> | 23 Booths · 13만+ PV · GA4 | [Github](https://github.com/sunwoo030616/2026-d-order-be-v3) · [Site](https://2602-d-order-home-page.vercel.app) |
 |     대학 축제 주점 통합 운영 플랫폼, **D-Order v2**     | Django / DRF |  2025.07 ~ 2025.09  | <img src="https://img.shields.io/badge/-D--Order-pink"/> | 9 Booths | [Github](https://github.com/sunwoo030616/2025-d-order-backend-v2) |
 |     대학 축제 주점 통합 운영 플랫폼, **D-Order v1**     | Django / DRF |  2025.04 ~ 2025.06  | <img src="https://img.shields.io/badge/-D--Order-pink"/> | 8 Booths · 1,200+ Users | [Github](https://github.com/sunwoo030616/2025-d-order-backend) |
